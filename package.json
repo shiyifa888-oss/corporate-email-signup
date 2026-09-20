@@ -1,0 +1,15 @@
+{
+  "name": "corporate-email-signup",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Secure, dependency-free corporate email domain signup starter.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
